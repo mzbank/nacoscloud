@@ -1,0 +1,30 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: ApiGateway
+  devtools:
+    restart:
+      enabled: true
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+#eureka:
+#  client:
+#    fetch-registry: true
+#    register-with-eureka: true
+#    service-url:
+#      defaultZone: http://localhost:8080/eureka
+
+zuul:
+  routes:
+    baidu:
+      path: /api-a/**
+#      url: http://www.baidu.com
+      serviceId: provider
+    alibaba:
+      path: /api-b/**
+      serviceId: consumer

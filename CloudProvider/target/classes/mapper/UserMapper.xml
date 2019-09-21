@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="CloudProvider.dao.UserMapper">
+
+    <select id="FindUser" resultType="CloudProvider.entity.TUser">
+        select * from MZBANK."T_USER"
+    </select>
+</mapper>

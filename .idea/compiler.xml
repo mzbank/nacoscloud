@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ApiGateway" />
+        <module name="CloudConsumer" />
+        <module name="CloudProvider" />
+        <module name="CloudProvider2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CloudDemo23456" target="1.8" />
+      <module name="ConfigServer" target="1.5" />
+      <module name="ServiceProvider" target="1.8" />
+      <module name="ServiceRegister" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

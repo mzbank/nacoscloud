@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a0e291c-09cb-4d55-903b-86dbb309e665" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/CloudBaseConfig/target/" />
+    <ignored path="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/target/" />
+    <ignored path="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/ApiGateway/target/" />
+    <ignored path="$PROJECT_DIR$/CloudBaseConfig/ApiGateway/target/" />
+    <ignored path="$PROJECT_DIR$/CloudBaseConfig/ConfigServer/target/" />
+    <ignored path="$PROJECT_DIR$/ServiceProvider/target/" />
+    <ignored path="$PROJECT_DIR$/CloudProvider/target/" />
+    <ignored path="$PROJECT_DIR$/CloudConsumer/target/" />
+    <ignored path="$PROJECT_DIR$/CloudProvider2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-370933419">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.110" value="1" />
+          <entry key="project.open.time.120" value="1" />
+          <entry key="project.open.time.122" value="1" />
+          <entry key="project.open.time.126" value="1" />
+          <entry key="project.open.time.127" value="2" />
+          <entry key="project.open.time.128" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.133" value="1" />
+          <entry key="project.open.time.134" value="2" />
+          <entry key="project.open.time.142" value="1" />
+          <entry key="project.open.time.146" value="1" />
+          <entry key="project.open.time.149" value="1" />
+          <entry key="project.open.time.151" value="1" />
+          <entry key="project.open.time.153" value="1" />
+          <entry key="project.open.time.159" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.186" value="1" />
+          <entry key="project.open.time.203" value="1" />
+          <entry key="project.open.time.207" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.214" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.421" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.75" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.open.time.84" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="11" />
+          <entry key="dummy" value="29" />
+          <entry key="java" value="3419" />
+          <entry key="txt" value="59" />
+          <entry key="xml" value="3115" />
+          <entry key="yml" value="1167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="11" />
+          <entry key="JAVA" value="3419" />
+          <entry key="PLAIN_TEXT" value="88" />
+          <entry key="XML" value="3115" />
+          <entry key="YAML" value="1167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="java" value="175" />
+          <entry key="pom" value="8" />
+          <entry key="xml" value="89" />
+          <entry key="yml" value="46" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="JAVA" value="175" />
+          <entry key="XML" value="97" />
+          <entry key="YAML" value="46" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1513084759">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1706830470">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.122" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.444" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+          <entry key="xml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudProvider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1178">
+              <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudBaseConfig/ApiGateway/src/main/java/ApiGateway/ApiGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudBaseConfig/ApiGateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-240">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudBaseConfig/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudConsumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/impl/remoteControllerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/remoteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4408">
+              <caret line="232" column="43" selection-start-line="232" selection-start-column="43" selection-end-line="232" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mapper.xml" />
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/src/main/java/ServiceRegister.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/ConsumerApi.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/ProviderController.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/entity/student.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/entity/Student.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/test/java/CloudProvider/dao/UserMapperTest.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/service/UserService.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/entity/TUser.java" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ConfigServer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/entity/TUser.java" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ApiGateway/src/main/java/ApiGateway/fallback/ZullFallZBack.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/src/main/java/ServiceRegister/ServiceRegister.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/impl/remoteControllerImpl.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/config/LoadBalanceConfig.java" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ServiceRegister/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ConfigServer/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ConfigServer/src/main/java/ConfigServer/ConfigServer.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/Controller/ProviderController.java" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ApiGateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/util/ExcelUtils.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/CloudProvider.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/Controller/ExcelController.java" />
+        <option value="$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/CloudProvider2.java" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/remoteApi/fullback/RemoteControllerFullBack.java" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/CloudConsumer.java" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/remoteApi/RemoteController.java" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/Controller/providerController.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/remoteController.java" />
+        <option value="$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/Controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/CloudProvider2/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/dao/RedisDao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudProvider/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudConsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/CloudBaseConfig/ApiGateway/src/main/java/ApiGateway/ApiGateway.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\zhangchunliang\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CloudConsumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CloudConsumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CloudProvider2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="CloudProvider2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-72" />
+    <option name="y" value="55" />
+    <option name="width" value="1346" />
+    <option name="height" value="580" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudBaseConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudBaseConfig" type="462c0819:PsiDirectoryNode" />
+              <item name="ApiGateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="ConsumerApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudDemo23456" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="CloudConsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="ConsumerApi" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569030029205" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="E:/tool/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="CloudProvider.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CloudProvider.util" />
+      <recent name="CloudProvider2.config" />
+      <recent name="CloudConsumer.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\CloudDemo\CloudProvider2\src\main\resources" />
+      <recent name="E:\Project\CloudDemo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.19889937" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.CloudProvider">
+    <configuration name="ApiGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ApiGateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiGateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ApiGateway.ApiGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConsumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="CloudConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CloudConsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="CloudConsumer.CloudConsumer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="nacos_addr" value="127.0.0.1:8848" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudProvider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="CloudProvider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CloudProvider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="CloudProvider.CloudProvider" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudProvider2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="CloudProvider2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CloudProvider2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="CloudProvider2.CloudProvider2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRegister" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ServiceRegister" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ServiceRegister.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ServiceRegister.ServiceRegister" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceRegister" />
+      <item itemvalue="Spring Boot.CloudProvider" />
+      <item itemvalue="Spring Boot.ApiGateway" />
+      <item itemvalue="Spring Boot.CloudConsumer" />
+      <item itemvalue="Spring Boot.CloudProvider2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CloudProvider" />
+        <item itemvalue="Spring Boot.CloudConsumer" />
+        <item itemvalue="Spring Boot.CloudProvider2" />
+        <item itemvalue="Spring Boot.ApiGateway" />
+        <item itemvalue="Spring Boot.ServiceRegister" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a0e291c-09cb-4d55-903b-86dbb309e665" name="Default Changelist" comment="" />
+      <created>1567689847726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567689847726</updated>
+      <workItem from="1567689858568" duration="1524000" />
+      <workItem from="1567691547649" duration="1100000" />
+      <workItem from="1567692774733" duration="6296000" />
+      <workItem from="1567731544957" duration="5761000" />
+      <workItem from="1567737784114" duration="1223000" />
+      <workItem from="1567739239994" duration="652000" />
+      <workItem from="1567739953188" duration="913000" />
+      <workItem from="1567749132983" duration="2107000" />
+      <workItem from="1567752308087" duration="739000" />
+      <workItem from="1567753228883" duration="9981000" />
+      <workItem from="1567773257012" duration="4672000" />
+      <workItem from="1567781529086" duration="1290000" />
+      <workItem from="1567817778576" duration="2868000" />
+      <workItem from="1567840021572" duration="632000" />
+      <workItem from="1567844489019" duration="581000" />
+      <workItem from="1567861250076" duration="7514000" />
+      <workItem from="1567989297092" duration="10526000" />
+      <workItem from="1568006053890" duration="3392000" />
+      <workItem from="1568016082064" duration="4385000" />
+      <workItem from="1568026399999" duration="589000" />
+      <workItem from="1568047711288" duration="1127000" />
+      <workItem from="1568049131072" duration="9000" />
+      <workItem from="1568074356031" duration="3715000" />
+      <workItem from="1568080500299" duration="6183000" />
+      <workItem from="1568092708105" duration="261000" />
+      <workItem from="1568093592976" duration="11213000" />
+      <workItem from="1568105479765" duration="1615000" />
+      <workItem from="1568108404983" duration="165000" />
+      <workItem from="1568121674115" duration="2818000" />
+      <workItem from="1568163603800" duration="5886000" />
+      <workItem from="1568181918468" duration="596000" />
+      <workItem from="1568185011552" duration="407000" />
+      <workItem from="1568188237073" duration="3535000" />
+      <workItem from="1568248456876" duration="2023000" />
+      <workItem from="1568254233665" duration="1927000" />
+      <workItem from="1568379894976" duration="68000" />
+      <workItem from="1568381374131" duration="2140000" />
+      <workItem from="1568426929591" duration="1075000" />
+      <workItem from="1568440467918" duration="2587000" />
+      <workItem from="1568446091716" duration="4006000" />
+      <workItem from="1568452917213" duration="1607000" />
+      <workItem from="1568471930780" duration="2177000" />
+      <workItem from="1568507125012" duration="408000" />
+      <workItem from="1568557403021" duration="964000" />
+      <workItem from="1568559112423" duration="5052000" />
+      <workItem from="1568600780981" duration="635000" />
+      <workItem from="1568603508825" duration="310000" />
+      <workItem from="1568770932675" duration="2580000" />
+      <workItem from="1568792037175" duration="2506000" />
+      <workItem from="1568795373710" duration="1391000" />
+      <workItem from="1568853294018" duration="1159000" />
+      <workItem from="1568855383517" duration="1032000" />
+      <workItem from="1568863491739" duration="682000" />
+      <workItem from="1568865223863" duration="906000" />
+      <workItem from="1568866210868" duration="909000" />
+      <workItem from="1568938069803" duration="69000" />
+      <workItem from="1568986723589" duration="402000" />
+      <workItem from="1568987362053" duration="129000" />
+      <workItem from="1568989271803" duration="205000" />
+      <workItem from="1568990032526" duration="660000" />
+      <workItem from="1569027823828" duration="1863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserMapperTest_findUser - 2019.09.06 at 17h 18m 02s.xml">
+      <configuration name="UserMapperTest.findUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUser - 2019.09.06 at 17h 20m 39s.xml">
+      <configuration name="UserMapperTest.findUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUser - 2019.09.06 at 17h 22m 13s.xml">
+      <configuration name="UserMapperTest.findUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUser - 2019.09.06 at 17h 23m 46s.xml">
+      <configuration name="UserMapperTest.findUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findUser - 2019.09.06 at 17h 24m 55s.xml">
+      <configuration name="UserMapperTest.findUser" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143747000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32568806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32996634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55723906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32715008" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.53198653" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.1529052" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32568806" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32996634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55723906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32715008" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.53198653" />
+      <window_info anchor="bottom" id="Problems" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.1529052" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CloudBaseConfig/ApiGateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="79" column="35" lean-forward="true" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="155" column="48" selection-start-line="155" selection-start-column="48" selection-end-line="155" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/WinNTFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/io/DefaultFileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-base/3.0.3/easypoi-base-3.0.3.jar!/cn/afterturn/easypoi/excel/entity/ImportParams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/CloudProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/entity/TUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-base/3.0.3/easypoi-base-3.0.3.jar!/cn/afterturn/easypoi/excel/ExcelImportUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="34" column="52" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-base/3.0.3/easypoi-base-3.0.3.jar!/cn/afterturn/easypoi/excel/imports/ExcelImportServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="141" column="9" selection-start-line="141" selection-start-column="9" selection-end-line="141" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/util/ExcelUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="26" column="70" lean-forward="true" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/config/LoadBalanceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/remoteApi/fullback/RemoteControllerFullBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/Controller/ProviderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/CloudProvider2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/Controller/providerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/remoteApi/RemoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/java/CloudProvider/Controller/ExcelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/CloudConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/Controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="45" column="100" selection-start-line="45" selection-start-column="100" selection-end-line="45" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.2.RELEASE/spring-beans-5.1.2.RELEASE.jar!/org/springframework/beans/factory/BeanClassLoaderAware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.2.RELEASE/spring-beans-5.1.2.RELEASE.jar!/org/springframework/beans/factory/Aware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-redis/2.1.0.RELEASE/spring-boot-starter-data-redis-2.1.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider2/src/main/java/CloudProvider2/dao/RedisDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="67" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudBaseConfig/ConfigServer/src/main/java/ConfigServer/ConfigServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudDemo23456.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4408">
+          <caret line="232" column="43" selection-start-line="232" selection-start-column="43" selection-end-line="232" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/impl/remoteControllerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudConsumer/src/main/java/CloudConsumer/ConsumerApi/remoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudProvider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudBaseConfig/ApiGateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudBaseConfig/ApiGateway/src/main/java/ApiGateway/ApiGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CloudBaseConfig/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ApiGateway</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

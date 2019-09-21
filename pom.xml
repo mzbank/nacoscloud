@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.mzbank</groupId>
+    <artifactId>CloudDemo23456</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>CloudBaseConfig</module>
+        <module>CloudProvider</module>
+        <module>CloudConsumer</module>
+        <module>CloudProvider2</module>
+    </modules>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.3.RELEASE</version>
+    </parent>
+
+    <properties>
+        <nacos-discovery.version>0.2.1.RELEASE</nacos-discovery.version>
+        <nacos-config.version>0.2.1.RELEASE</nacos-config.version>
+        <netflix-zuul.version>2.0.1.RELEASE</netflix-zuul.version>
+        <boot-actuator.version>2.0.6.RELEASE</boot-actuator.version>
+        <cloud-openfeign.version>2.0.1.RELEASE</cloud-openfeign.version>
+        <swagger2.version>2.9.2</swagger2.version>
+        <swagger-ui.version>2.9.2</swagger-ui.version>
+        <easypoi-base.version>3.0.3</easypoi-base.version>
+        <easypoi-web.version>3.0.3</easypoi-web.version>
+        <easypoi-annotation.version>3.0.3</easypoi-annotation.version>
+        <!--<config-server.version>2.1.0.RELEASE</config-server.version>-->
+        <!--<eureka-server.version>2.1.0.RELEASE</eureka-server.version>-->
+    </properties>
+</project>
